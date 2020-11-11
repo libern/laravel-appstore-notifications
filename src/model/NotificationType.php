@@ -16,4 +16,5 @@ class NotificationType extends Enum
     const DID_RECOVER = 'did_recover'; // replaces RENEWAL
     const PRICE_INCREASE_CONSENT = 'price_increase_consent';
     const REFUND = 'refund';
+    const DID_RENEW = 'did_renew';
 }
